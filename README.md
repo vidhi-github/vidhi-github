@@ -35,4 +35,3 @@ Seeking for an internship opportunity to deepen my technical expertise, gain han
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
-
