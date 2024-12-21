@@ -13,7 +13,7 @@ Proficient in web development languages including HTML, CSS, JavaScript, alongsi
 
 My projects include a wide section -- MeetRooms- Apna Video Call(Web RTC based), Flashes-In-Ur-Way, Aqua Heroes game, Weather App , Wanderlust, Forms(Tailwind) , Simon Game , Lottery Games, etc. Furthermore, the projects are extended with the use of REST API's , Authorization, Authentication and Maps. 
 
-My projects also encompasses the Intelligent Speed Monitoring and Alert System for Traffic Management, People Counting System, and Jacket Helmet Detection System. These systems are expanded with the use of Flask, NVIDIA DGX servers, YOLOv9, PyTorch, and OpenCV for enhanced functionality.
+My projects also encompasses the Intelligent Speed Monitoring and Alert System for Traffic Management, People Counting System, and Jacket Helmet Detection System. These systems are expanded with the use of Flask, NVIDIA DGX servers, YOLOv9, GmailAPI and DeepSORT for enhanced functionality.
 
 For having diverse knowledge in the field of web development, I have also been shortlisted as a contributor in Social Summer of Code (SSOC -Season 3) and GirlScript Summer of Code(GSSOC) - extended 2024 to explore more, learn and contribute to the real world development projects. I have also been a part of HacktoberFest 2024 community of open source contributions.
 
