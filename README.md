@@ -11,7 +11,9 @@ Eager third-year Computer Science Engineering student with a fervent curiosity f
 
 Proficient in web development languages including HTML, CSS, JavaScript, alongside frameworks like React, MongoDB, Express, Node.js, MySQL(basics), Bootstrap and Tailwind(basics). I am also certified by Apna College for completing a Full Stack Web Development course under their supervision. Further, having a foundation in programming languages such as C and DSA in Java (practicing). I have also attained 5 stars at Hacker Rank (Gold Badge- JAVA).
 
-My projects include a wide section -- Flashes-In-Ur-Way, Aqua Heroes game, Weather App , Wanderlust, Forms(Tailwind) , Simon Game , Lottery Games, etc. Furthermore, the projects are extended with the use of REST API's , Authorization, Authentication and Maps. 
+My projects include a wide section -- MeetRooms- Apna Video Call(Web RTC based), Flashes-In-Ur-Way, Aqua Heroes game, Weather App , Wanderlust, Forms(Tailwind) , Simon Game , Lottery Games, etc. Furthermore, the projects are extended with the use of REST API's , Authorization, Authentication and Maps. 
+
+My projects also encompasses the Intelligent Speed Monitoring and Alert System for Traffic Management, People Counting System, and Jacket Helmet Detection System. These systems are expanded with the use of Flask, NVIDIA DGX servers, YOLOv9, PyTorch, and OpenCV for enhanced functionality.
 
 For having diverse knowledge in the field of web development, I have also been shortlisted as a contributor in Social Summer of Code (SSOC -Season 3) and GirlScript Summer of Code(GSSOC) - extended 2024 to explore more, learn and contribute to the real world development projects. I have also been a part of HacktoberFest 2024 community of open source contributions.
 
