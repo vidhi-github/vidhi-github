@@ -17,7 +17,7 @@ For having diverse knowledge in the field of web development, I have also been s
 
 During the end of my first year , I did a 2-month certified internship under Palo Alto Networks Ltd. in the domain of Cyber Security. I have also attained a certificate of Fundamentals of Cyber Security while doing a virtual internship under the company Zscaler : Cybersecurity and Zero Trust Leader.
 
-I am currently a software developer intern at Bluestock Fintech Company involved for a period of 2-months Oct 2024-Nov 2024.
+I have worked as a Software Developer Intern at Bluestock Fintech Company for a period of two months, from Oct 2024 to Nov 2024. The tech stack I used in this role included the Django framework.
 
 Seeking for an internship opportunity to deepen my technical expertise, gain hands-on experience, and further refine my skills across the development stack.
 
