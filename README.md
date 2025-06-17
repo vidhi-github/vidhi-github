@@ -1,19 +1,19 @@
 - 👋 Hi, I’m Vidhi Jindal.
-- 👀 I’m interested in coding,, learning new skills, and conqering the world.
-- 🌱 I’m currently in the third year of my BTech in CSE.
+- 👀 I’m currently a Software Developer Engineer Intern in Testing(SDET) at Tiket.com Company.
+- 🌱 I’m currently in the 4th year of BTech in CSE.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me -- my LinkedIn URL:: https://www.linkedin.com/in/vidhi-jindal14
 - 😄 Pronouns: she/her
 
 
 
-Eager third-year Computer Science Engineering student with a fervent curiosity for MERN stack development. 
+Eager 4th year Computer Science Engineering student with a fervent curiosity for MERN stack development. 
 
-Proficient in web development languages including HTML, CSS, JavaScript, alongside frameworks like React, MongoDB, Express, Node.js, MySQL(basics), Bootstrap and Tailwind(basics). I am also certified by Apna College for completing a Full Stack Web Development course under their supervision. Further, having a foundation in programming languages such as C and DSA in Java (practicing). I have also attained 5 stars at Hacker Rank (Gold Badge- JAVA) and have solved 500+ JAVA problems on various platforms like LeetCode, GFG, CodeChef, etc.
+Proficient in web development languages including HTML, CSS, JavaScript, alongside frameworks like React, MongoDB, Express, Node.js, MySQL(basics), Bootstrap and Tailwind(basics). I am also certified by Apna College for completing a Full Stack Web Development course and Data Structures and Algorithms in Java course under their supervision. Further, having a foundation in programming languages such as C and DSA in Java. I have also attained 5 stars at Hacker Rank (Gold Badge- JAVA) and have solved 700+ JAVA problems on various platforms like LeetCode, GFG, CodeChef, etc.
 
 My projects include a wide section -- MeetRooms- Apna Video Call(Web RTC based), Flashes-In-Ur-Way, Aqua Heroes game, Weather App , Wanderlust, Forms(Tailwind) , Simon Game , Lottery Games, etc. Furthermore, the projects are extended with the use of REST API's , Authorization, Authentication and Maps. 
 
-My projects also encompasses the AuraVision- Multi-person Face Recognition System, Intelligent Speed Monitoring and Alert System for Traffic Management, People Counting System, and Jacket Helmet Detection System. These systems are expanded with the use of Flask, NVIDIA DGX servers, YOLOv9, GmailAPI, TensorFlow, OpenCV and PyTorch for enhanced functionality.
+My projects also encompasses the AuraVision- Multi-person Real-Time Face Recognition System, Intelligent Speed Monitoring and Alert System for Traffic Management, People Counting System, and Jacket Helmet Detection System. These systems are expanded with the use of Flask, NVIDIA DGX servers, YOLOv9, GmailAPI, TensorFlow, OpenCV and PyTorch for enhanced functionality.
 
 For having diverse knowledge in the field of web development, I have also been shortlisted as a contributor in Social Summer of Code (SSOC -Season 3) and GirlScript Summer of Code(GSSOC) - extended 2024 to explore more, learn and contribute to the real world development projects. I have also been a part of HacktoberFest 2024 community of open source contributions.
 
