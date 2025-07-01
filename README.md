@@ -2,7 +2,8 @@
 - 👀 I’m currently a Software Developer Engineer Intern in Testing(SDET) at Tiket.com Company.
 - 🌱 I’m currently in the 4th year of BTech in CSE.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me -- my LinkedIn URL:: https://www.linkedin.com/in/vidhi-jindal14
+- 📫 How to reach me -- my LinkedIn URL:- https://www.linkedin.com/in/vidhi-jindal14
+- 👀 My Portfolio:-  https://zesty-yeot-068ef1.netlify.app/
 - 😄 Pronouns: she/her
 
 
